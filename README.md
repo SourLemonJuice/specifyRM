@@ -37,7 +37,7 @@ specify 是指在删除前确认路径是否符合预期，比如要删除`/tmp/
 # return code:
 # 0: matched
 # 1: no match
-# 10: input error
+# 16: input error
 # 
 # mode list:
 # path.basename -- Match full path basename with $2

@@ -9,7 +9,7 @@
 # return code:
 # 0: matched
 # 1: no match
-# 10: input error
+# 16: input error
 # 
 # mode list:
 # path.basename -- Match full path basename with $2
